@@ -1,0 +1,8 @@
+node_modules
+__pycache__
+
+density_model.pkl
+
+dfTransjakarta.csv
+dfTransjakarta_cleaned.csv
+density_data.csv
