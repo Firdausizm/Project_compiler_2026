@@ -1,1 +1,1 @@
-untuk melihat dashbard jelankan streamlit run app.py di terminal
+untuk melihat dashbard secara lokal jelankan `streamlit run app.py` di terminal
